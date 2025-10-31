@@ -22,7 +22,8 @@ Welcome to my **Portfolio Website**, built using **HTML, CSS, and JavaScript** t
 ---
 
 ## 📸 Preview  
-![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Preview)  
+![Portfolio Screenshot](https://raw.githubusercontent.com/DivyaAlla22/Portfolio-Website/main/portfolio.png)
+
 
 ---
 
