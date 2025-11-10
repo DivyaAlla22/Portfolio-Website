@@ -83,7 +83,7 @@ I enjoy designing user interfaces that are simple, fast, and visually appealing 
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=divyaallaa@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 
