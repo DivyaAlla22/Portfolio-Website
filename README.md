@@ -78,12 +78,12 @@ I enjoy designing user interfaces that are simple, fast, and visually appealing 
 <p align="center">
   <b>💬 Let’s Connect</b><br><br>
 
-  <a href="https://www.linkedin.com/in/divya-alla/" target="_blank">
+  <a href="https://www.linkedin.com/in/divya-alla-b69952387/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Divya%20Alla-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
   <a href="mailto:divyaallaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-divyaallaa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-divyaallaagmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
   <a href="https://divyaalla22.github.io/Portfolio-Website/" target="_blank">
