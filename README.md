@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <a href="https://divyaalla22.github.io/Portfolio-Website/" target="_blank">
+  <a href="https://divyaalla22.github.io/Personal-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO%20-%20Click%20Here-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo">
   </a>
 </p>
