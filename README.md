@@ -48,7 +48,8 @@ It’s designed with simplicity, speed, and elegance in mind — giving visitors
 ## 📸 Preview
 
 <p align="center">
-  <img src="./images/portfolio-preview.png" alt="Portfolio Preview" width="700px" style="border-radius:10px;">
+  <img src="Screenshot1.png" alt="Portfolio Preview" width="700px" style="border-radius:10px;">
+  <img src="Screenshot2.png" alt="Portfolio Preview" width="700px" style="border-radius:10px;">
 </p>
 
 ---
@@ -76,5 +77,19 @@ cd Portfolio-Website
 Hi! I’m Divya Alla, an aspiring Front-End Developer passionate about building creative and impactful digital experiences.
 I enjoy designing user interfaces that are simple, fast, and visually appealing — powered by clean and efficient code.
 
-<p align="center"> <b>💬 Let’s Connect</b><br><br> <a href="https://www.linkedin.com/in/divya-alla/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Divya%20Alla-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:divyaallaa@gmail.com"> <img src="https://img.shields.io/badge/Email-divyaallaa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://divyaalla22.github.io/Portfolio-Website/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-View%20Now-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> </p>
-<p align="center"> <i>✨ Designed & Developed with ❤️ by <b>Divya Alla</b> ✨</i> </p> ```
+<p align="center"> 
+  <b>💬 Let’s Connect</b><br><br>
+  <a href="https://www.linkedin.com/in/divya-alla/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Divya%20Alla-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> 
+  </a> 
+  <a href="mailto:divyaallaa@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-divyaallaa%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
+  </a> 
+  <a href="https://divyaalla22.github.io/Portfolio-Website/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Portfolio-View%20Now-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> 
+  </a> 
+</p>
+
+<p align="center"> 
+  <i>✨ Designed & Developed with ❤️ by <b>Divya Alla</b> ✨</i> 
+</p>
