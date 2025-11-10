@@ -55,7 +55,7 @@ It’s designed with simplicity, speed, and elegance in mind — giving visitors
 
 ## 🚀 How to View Locally
 
-```bash
+
 # Clone this repository
 git clone https://github.com/DivyaAlla22/Portfolio-Website.git
 
